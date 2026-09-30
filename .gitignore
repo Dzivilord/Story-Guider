@@ -1,12 +1,25 @@
 data/app/*.db
 data/app/*.db-shm
 data/app/*.db-wal
+# Local databases and SQLite sidecar files anywhere in the project.
+*.db
+*.sqlite
+*.sqlite3
+*.db-shm
+*.db-wal
 .env
 __pycache__/
 *.py[cod]
 .venv/
 node_modules/
 .next/
-backend/search_evaluation/logs/*.jsonl
+# Runtime logs and generated log directories.
+*.log
+logs/
+**/logs/*
+!backend/search_evaluation/logs/.gitkeep
+# Generated embedding/index artifacts; keep only the directory marker.
+data/embeddings/*
+!data/embeddings/.gitkeep
 artifacts/faiss/*
 !artifacts/faiss/.gitkeep
