@@ -1,0 +1,12 @@
+data/app/*.db
+data/app/*.db-shm
+data/app/*.db-wal
+.env
+__pycache__/
+*.py[cod]
+.venv/
+node_modules/
+.next/
+backend/search_evaluation/logs/*.jsonl
+artifacts/faiss/*
+!artifacts/faiss/.gitkeep

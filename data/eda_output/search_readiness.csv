@@ -1,0 +1,9 @@
+field,coverage_count,coverage_percentage,unique_count,possible_role
+title,205000,100.0,198203,text
+description,178056,86.86,164803,text
+first_author,204989,99.99,149526,categorical
+genres,205000,100.0,47232,relationship
+series,205000,100.0,21147,relationship
+language,197141,96.17,101,categorical
+publisher,198580,96.87,49361,categorical
+average_rating,204998,100.0,307,numerical

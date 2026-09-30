@@ -1,0 +1,26 @@
+{
+  "work_id_unique": {
+    "status": "PASS",
+    "details": {}
+  },
+  "title_complete": {
+    "status": "PASS",
+    "details": {}
+  },
+  "content_tags_valid": {
+    "status": "PASS",
+    "details": {}
+  },
+  "series_valid": {
+    "status": "PASS",
+    "details": {}
+  },
+  "ratings_valid": {
+    "status": "PASS",
+    "details": {}
+  },
+  "pages_valid": {
+    "status": "PASS",
+    "details": {}
+  }
+}

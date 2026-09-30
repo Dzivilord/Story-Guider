@@ -1,0 +1,7 @@
+issue,affected_rows,percentage,example_values
+description_missing,26944,13.14,[]
+genres_missing,0,0.0,[]
+series_missing,0,0.0,[]
+author_missing,11,0.01,[]
+language_missing,7859,3.83,[]
+invalid_publication_date,12667,6.18,[]

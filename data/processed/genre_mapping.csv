@@ -1,0 +1,1230 @@
+raw_genre,canonical_genre,action,reason
+Audiobook,,remove,format_tag
+Ebooks,,remove,format_tag
+11th Century,11th Century,keep,retained
+12th Century,12th Century,keep,retained
+13th Century,13th Century,keep,retained
+14th Century,14th Century,keep,retained
+15th Century,15th Century,keep,retained
+16th Century,16th Century,keep,retained
+17th Century,17th Century,keep,retained
+18th Century,18th Century,keep,retained
+19th Century,19th Century,keep,retained
+1st Grade,1st Grade,keep,retained
+20th Century,20th Century,keep,retained
+21st Century,21st Century,keep,retained
+2nd Grade,2nd Grade,keep,retained
+40k,40k,keep,retained
+Aapi,Aapi,rare_remove,frequency_below_5
+Abuse,Abuse,keep,retained
+Academia,Academia,keep,retained
+Academic,Academic,keep,retained
+Academics,Academics,keep,retained
+Accounting,Accounting,keep,retained
+Action,Action,keep,retained
+Activism,Activism,keep,retained
+Addiction,Addiction,keep,retained
+Adhd,Adhd,keep,retained
+Adolescence,Adolescence,rare_remove,frequency_below_5
+Adoption,Adoption,keep,retained
+Adult,Adult,keep,retained
+Adult Fiction,Adult Fiction,keep,retained
+Adult Romance,Adult Romance,keep,retained
+Adventure,Adventure,keep,retained
+Aeroplanes,Aeroplanes,keep,retained
+Africa,Africa,keep,retained
+African American,African American,keep,retained
+African American Literature,African American Literature,keep,retained
+African American Romance,African American Romance,keep,retained
+African Literature,African Literature,keep,retained
+Agatha Christie,Agatha Christie,keep,retained
+Aging,Aging,keep,retained
+Agriculture,Agriculture,keep,retained
+Aircraft,Aircraft,keep,retained
+Albanian Literature,Albanian Literature,rare_remove,frequency_below_5
+Alchemy,Alchemy,keep,retained
+Alcohol,Alcohol,keep,retained
+Alexandria,Alexandria,rare_remove,frequency_below_5
+Algebra,Algebra,keep,retained
+Algeria,Algeria,keep,retained
+Algorithms,Algorithms,keep,retained
+Aliens,Aliens,keep,retained
+Alternate History,Alternate History,keep,retained
+Alternative Medicine,Alternative Medicine,keep,retained
+Amateur Sleuth,Amateur Sleuth,keep,retained
+Amazon,Amazon,keep,retained
+American,American,keep,retained
+American Civil War,American Civil War,keep,retained
+American Classics,American Classics,keep,retained
+American Fiction,American Fiction,keep,retained
+American History,American History,keep,retained
+American Revolution,American Revolution,keep,retained
+American Revolutionary War,American Revolutionary War,keep,retained
+Americana,Americana,keep,retained
+Amish,Amish,keep,retained
+Amish Fiction,Amish Fiction,keep,retained
+Anarchism,Anarchism,keep,retained
+Ancient,Ancient,keep,retained
+Ancient History,Ancient History,keep,retained
+Angels,Angels,keep,retained
+Anglo Saxon,Anglo Saxon,keep,retained
+Angola,Angola,rare_remove,frequency_below_5
+Animal Fiction,Animal Fiction,keep,retained
+Animals,Animals,keep,retained
+Animation,Animation,keep,retained
+Anime,Anime,keep,retained
+Anthologies,Anthologies,keep,retained
+Anthropology,Anthropology,keep,retained
+Anthropomorphic,Anthropomorphic,keep,retained
+Anti Hero,Anti Hero,keep,retained
+Anti Racist,Anti Racist,keep,retained
+Antietam Campaign,Antietam Campaign,rare_remove,frequency_below_5
+Antisemitism,Antisemitism,keep,retained
+Apocalyptic,Apocalyptic,keep,retained
+Apple,Apple,rare_remove,frequency_below_5
+Archaeology,Archaeology,keep,retained
+Architecture,Architecture,keep,retained
+Arithmetic,Arithmetic,rare_remove,frequency_below_5
+Army Of The Potomac,Army Of The Potomac,rare_remove,frequency_below_5
+Art,Art,keep,retained
+Art Design,Art Design,keep,retained
+Art History,Art History,keep,retained
+Art and Photography,Art and Photography,keep,retained
+Arthurian,Arthurian,keep,retained
+Artificial Intelligence,Artificial Intelligence,keep,retained
+Asexual,Asexual,rare_remove,frequency_below_5
+Asia,Asia,keep,retained
+Asian American,Asian American,keep,retained
+Asian Literature,Asian Literature,keep,retained
+Aspergers,Aspergers,rare_remove,frequency_below_5
+Astrology,Astrology,keep,retained
+Astronomy,Astronomy,keep,retained
+Atheism,Atheism,keep,retained
+Atlases,Atlases,keep,retained
+Australia,Australia,keep,retained
+Autistic Spectrum Disorder,Autistic Spectrum Disorder,keep,retained
+Autobiography,Autobiography,keep,retained
+Autumn,Autumn,keep,retained
+Aviation,Aviation,keep,retained
+Aviation History,Aviation History,rare_remove,frequency_below_5
+BDSM,BDSM,keep,retained
+Babylon 5,Babylon 5,rare_remove,frequency_below_5
+Back To School,Back To School,keep,retained
+Baha I,Baha I,keep,retained
+Bande Dessinée,Bande Dessinée,keep,retained
+Bangladesh,Bangladesh,keep,retained
+Banking,Banking,keep,retained
+Banks,Banks,rare_remove,frequency_below_5
+Banned Books,Banned Books,keep,retained
+Baseball,Baseball,keep,retained
+Basketball,Basketball,keep,retained
+Batman,Batman,keep,retained
+Battle Of Britain,Battle Of Britain,rare_remove,frequency_below_5
+Battle Of Gettysburg,Battle Of Gettysburg,rare_remove,frequency_below_5
+Beach Reads,Beach Reads,keep,retained
+Beading,Beading,keep,retained
+Beauty and The Beast,Beauty and The Beast,keep,retained
+Beer,Beer,keep,retained
+Behind The Scenes,Behind The Scenes,rare_remove,frequency_below_5
+Belgian,Belgian,keep,retained
+Belgium,Belgium,keep,retained
+Benin,Benin,rare_remove,frequency_below_5
+Beverages,Beverages,rare_remove,frequency_below_5
+Biblical,Biblical,keep,retained
+Biblical Fiction,Biblical Fiction,keep,retained
+Biblical Studies,Biblical Studies,keep,retained
+Bicycles,Bicycles,keep,retained
+Bigfoot,Bigfoot,rare_remove,frequency_below_5
+Billionaires,Billionaires,rare_remove,frequency_below_5
+Biographical Fiction,Biographical Fiction,rare_remove,frequency_below_5
+Biography,Biography,keep,retained
+Biography Memoir,Biography Memoir,keep,retained
+Biology,Biology,keep,retained
+Bird Watching,Bird Watching,rare_remove,frequency_below_5
+Birds,Birds,keep,retained
+Bisexual,Bisexual,rare_remove,frequency_below_5
+Bizarro Fiction,Bizarro Fiction,keep,retained
+Black Author,Black Author,rare_remove,frequency_below_5
+Black Literature,Black Literature,keep,retained
+Black Women,Black Women,keep,retained
+Boarding School,Boarding School,keep,retained
+Boating,Boating,rare_remove,frequency_below_5
+Bodies,Bodies,keep,retained
+Bolivia,Bolivia,rare_remove,frequency_below_5
+Book Club,Book Club,keep,retained
+Books About Books,Books About Books,keep,retained
+Booze,Booze,keep,retained
+Botswana,Botswana,keep,retained
+Boys Love,Boys Love,keep,retained
+Brain,Brain,keep,retained
+Brazil,Brazil,keep,retained
+Bret Easton Ellis,Bret Easton Ellis,rare_remove,frequency_below_5
+Brewing,Brewing,keep,retained
+British Literature,British Literature,keep,retained
+British Royalty,British Royalty,rare_remove,frequency_below_5
+Buddhism,Buddhism,keep,retained
+Buffy The Vampire Slayer,Buffy The Vampire Slayer,keep,retained
+Buisness,Buisness,keep,retained
+Bulgaria,Bulgaria,keep,retained
+Bulgarian Literature,Bulgarian Literature,rare_remove,frequency_below_5
+Burundi,Burundi,rare_remove,frequency_below_5
+Business,Business,keep,retained
+Business Leadership,Business Leadership,keep,retained
+Business Strategy,Business Strategy,keep,retained
+Butch Femme,Butch Femme,keep,retained
+Calculus,Calculus,keep,retained
+Cameroon,Cameroon,rare_remove,frequency_below_5
+Canada,Canada,keep,retained
+Canadian Literature,Canadian Literature,keep,retained
+Canon,Canon,keep,retained
+Carolingian,Carolingian,rare_remove,frequency_below_5
+Cars,Cars,keep,retained
+Cartography,Cartography,keep,retained
+Cartoon,Cartoon,keep,retained
+Category Romance,Category Romance,keep,retained
+Catholic,Catholic,keep,retained
+Cats,Cats,keep,retained
+Celebrity,Celebrity,keep,retained
+Celebrity Romance,Celebrity Romance,rare_remove,frequency_below_5
+Chancellorsville Campaign,Chancellorsville Campaign,rare_remove,frequency_below_5
+Chapter Books,Chapter Books,keep,retained
+Chemistry,Chemistry,keep,retained
+Chess,Chess,keep,retained
+Chick Lit,Chick Lit,keep,retained
+Child Psychology,Child Psychology,rare_remove,frequency_below_5
+Childrens,Childrens,keep,retained
+Childrens Classics,Childrens Classics,keep,retained
+Childrens Fantasy,Childrens Fantasy,keep,retained
+Childrens Mystery,Childrens Mystery,rare_remove,frequency_below_5
+China,China,keep,retained
+Chinese Literature,Chinese Literature,keep,retained
+Chivalry,Chivalry,keep,retained
+Choose Your Own Adventure,Choose Your Own Adventure,keep,retained
+Christian,Christian,keep,retained
+Christian Contemporary Fiction,Christian Contemporary Fiction,rare_remove,frequency_below_5
+Christian Fantasy,Christian Fantasy,keep,retained
+Christian Fiction,Christian Fiction,keep,retained
+Christian Historical Fiction,Christian Historical Fiction,keep,retained
+Christian History,Christian History,keep,retained
+Christian Living,Christian Living,keep,retained
+Christian Non Fiction,Christian Non Fiction,keep,retained
+Christian Romance,Christian Romance,keep,retained
+Christianity,Christianity,keep,retained
+Christmas,Christmas,keep,retained
+Christmas Romance,Christmas Romance,keep,retained
+Church,Church,keep,retained
+Church History,Church History,keep,retained
+Church Ministry,Church Ministry,rare_remove,frequency_below_5
+Cia,Cia,keep,retained
+Cinderella,Cinderella,keep,retained
+Cities,Cities,keep,retained
+Civil Engineering,Civil Engineering,keep,retained
+Civil War,Civil War,keep,retained
+Civil War Confederacy,Civil War Confederacy,rare_remove,frequency_below_5
+Civil War Eastern Theater,Civil War Eastern Theater,keep,retained
+Civil War History,Civil War History,keep,retained
+Civil War Navy,Civil War Navy,rare_remove,frequency_below_5
+Civil War Western Theater,Civil War Western Theater,keep,retained
+Class,Class,keep,retained
+Classic Literature,Classic Literature,keep,retained
+Classical Music,Classical Music,keep,retained
+Classical Studies,Classical Studies,keep,retained
+Classics,Classics,keep,retained
+Clean Romance,Clean Romance,keep,retained
+Climate Change,Climate Change,keep,retained
+Climate Change Fiction,Climate Change Fiction,keep,retained
+Climbing,Climbing,keep,retained
+Closed Door Romance,Closed Door Romance,rare_remove,frequency_below_5
+Cocktails,Cocktails,keep,retained
+Coding,Coding,keep,retained
+Coffee Table Books,Coffee Table Books,keep,retained
+Collections,Collections,keep,retained
+College,College,keep,retained
+Colouring Books,Colouring Books,rare_remove,frequency_below_5
+Comedian,Comedian,keep,retained
+Comedy,Comedy,keep,retained
+Comic Book,Comic Book,keep,retained
+Comic Fantasy,Comic Fantasy,rare_remove,frequency_below_5
+Comic Strips,Comic Strips,keep,retained
+Comics,Comics,keep,retained
+Comics Bd,Comics Bd,rare_remove,frequency_below_5
+Comics Manga,Comics Manga,keep,retained
+Coming Of Age,Coming Of Age,keep,retained
+Comix,Comix,keep,retained
+Communication,Communication,keep,retained
+Computation,Computation,rare_remove,frequency_below_5
+Computer Science,Computer Science,keep,retained
+Computers,Computers,keep,retained
+Conservation,Conservation,keep,retained
+Conspiracy Theories,Conspiracy Theories,keep,retained
+Construction,Construction,keep,retained
+Contemporary,Contemporary,keep,retained
+Contemporary Fantasy,Contemporary Fantasy,keep,retained
+Contemporary History,Contemporary History,rare_remove,frequency_below_5
+Contemporary Romance,Contemporary Romance,keep,retained
+Cookbooks,Cookbooks,keep,retained
+Cooking,Cooking,keep,retained
+Costume History,Costume History,rare_remove,frequency_below_5
+Counselling,Counselling,keep,retained
+Counter Culture,Counter Culture,keep,retained
+Counting,Counting,keep,retained
+Courtroom Drama,Courtroom Drama,rare_remove,frequency_below_5
+Cowboy Romance,Cowboy Romance,keep,retained
+Cozy,Cozy,keep,retained
+Cozy Mystery,Cozy Mystery,keep,retained
+Crafts,Crafts,keep,retained
+Creation Science,Creation Science,rare_remove,frequency_below_5
+Creative,Creative,keep,retained
+Creature,Creature,rare_remove,frequency_below_5
+Crime,Crime,keep,retained
+Criticism,Criticism,keep,retained
+Crochet,Crochet,keep,retained
+Cross Dressing,Cross Dressing,keep,retained
+Cryptids,Cryptids,rare_remove,frequency_below_5
+Cryptozoology,Cryptozoology,keep,retained
+Cs Lewis,Cs Lewis,keep,retained
+Cthulhu Mythos,Cthulhu Mythos,keep,retained
+Cuisine,Cuisine,keep,retained
+Culinary,Culinary,keep,retained
+Cult Classics,Cult Classics,keep,retained
+Cults,Cults,keep,retained
+Cultural,Cultural,keep,retained
+Cultural Heritage,Cultural Heritage,rare_remove,frequency_below_5
+Cultural Studies,Cultural Studies,keep,retained
+Current Affairs,Current Affairs,keep,retained
+Cyberpunk,Cyberpunk,keep,retained
+Cycling,Cycling,keep,retained
+Czech Literature,Czech Literature,keep,retained
+Danish,Danish,keep,retained
+Dark,Dark,keep,retained
+Dark Academia,Dark Academia,keep,retained
+Dark Fantasy,Dark Fantasy,keep,retained
+Dark Romance,Dark Romance,keep,retained
+Dc Comics,Dc Comics,keep,retained
+Death,Death,keep,retained
+Deception,Deception,rare_remove,frequency_below_5
+Democratic Republic Of The Congo,Democratic Republic Of The Congo,rare_remove,frequency_below_5
+Demons,Demons,keep,retained
+Denmark,Denmark,keep,retained
+Dentistry,Dentistry,rare_remove,frequency_below_5
+Design,Design,keep,retained
+Detective,Detective,keep,retained
+Developmental Psychology,Developmental Psychology,rare_remove,frequency_below_5
+Devotional,Devotional,keep,retained
+Diary,Diary,keep,retained
+Diaspora,Diaspora,rare_remove,frequency_below_5
+Dictionaries,Dictionaries,keep,retained
+Diets,Diets,keep,retained
+Dinosaurs,Dinosaurs,keep,retained
+Disability,Disability,keep,retained
+Disability Studies,Disability Studies,keep,retained
+Discipleship,Discipleship,keep,retained
+Disease,Disease,keep,retained
+Divination,Divination,keep,retained
+Divorce,Divorce,keep,retained
+Djibouti,Djibouti,rare_remove,frequency_below_5
+Doctor Who,Doctor Who,keep,retained
+Doctors,Doctors,keep,retained
+Dogs,Dogs,keep,retained
+Domestic,Domestic,keep,retained
+Domestic Fiction,Domestic Fiction,rare_remove,frequency_below_5
+Dragonlance,Dragonlance,keep,retained
+Dragons,Dragons,keep,retained
+Drama,Drama,keep,retained
+Drawing,Drawing,keep,retained
+Drinking,Drinking,rare_remove,frequency_below_5
+Drugs,Drugs,keep,retained
+Dungeons and Dragons,Dungeons and Dragons,keep,retained
+Dutch Literature,Dutch Literature,keep,retained
+Dying Earth,Dying Earth,keep,retained
+Dystopia,Dystopia,keep,retained
+Earth,Earth,keep,retained
+Earth Sciences,Earth Sciences,keep,retained
+Eastern Africa,Eastern Africa,rare_remove,frequency_below_5
+Eastern Philosophy,Eastern Philosophy,keep,retained
+Ecclesiology,Ecclesiology,keep,retained
+Ecology,Ecology,keep,retained
+Economic Development,Economic Development,keep,retained
+Economics,Economics,keep,retained
+Education,Education,keep,retained
+Edwardian,Edwardian,keep,retained
+Egypt,Egypt,keep,retained
+Egyptian Literature,Egyptian Literature,keep,retained
+Egyptology,Egyptology,keep,retained
+Electrical Engineering,Electrical Engineering,keep,retained
+Elizabethan Period,Elizabethan Period,keep,retained
+Elves,Elves,keep,retained
+Emergency Services,Emergency Services,rare_remove,frequency_below_5
+Emotion,Emotion,keep,retained
+Emotional,Emotional,rare_remove,frequency_below_5
+Empiricism,Empiricism,rare_remove,frequency_below_5
+End Of Days,End Of Days,rare_remove,frequency_below_5
+Enemies To Lovers,Enemies To Lovers,keep,retained
+Engineering,Engineering,keep,retained
+English Civil War,English Civil War,keep,retained
+English Literature,English Literature,keep,retained
+Entrepreneurship,Entrepreneurship,keep,retained
+Environment,Environment,keep,retained
+Environmental Science,Environmental Science,rare_remove,frequency_below_5
+Epic,Epic,keep,retained
+Epic Fantasy,Epic Fantasy,keep,retained
+Epic Poetry,Epic Poetry,keep,retained
+Eritrea,Eritrea,rare_remove,frequency_below_5
+Erotic Historical Romance,Erotic Historical Romance,rare_remove,frequency_below_5
+Erotic Horror,Erotic Horror,rare_remove,frequency_below_5
+Erotic Romance,Erotic Romance,keep,retained
+Erotica,Erotica,keep,retained
+Esoterica,Esoterica,keep,retained
+Esp,Esp,rare_remove,frequency_below_5
+Espionage,Espionage,keep,retained
+Essays,Essays,keep,retained
+Ethiopia,Ethiopia,keep,retained
+Ethnic,Ethnic,rare_remove,frequency_below_5
+Ethnic Studies,Ethnic Studies,rare_remove,frequency_below_5
+Ethnography,Ethnography,keep,retained
+Eugenics,Eugenics,keep,retained
+European History,European History,keep,retained
+European Literature,European Literature,keep,retained
+Evangelism,Evangelism,keep,retained
+Evolution,Evolution,keep,retained
+Expat,Expat,rare_remove,frequency_below_5
+Fables,Fables,keep,retained
+Fade To Black,Fade To Black,rare_remove,frequency_below_5
+Fae,Fae,keep,retained
+Fairies,Fairies,keep,retained
+Fairy Tale Retellings,Fairy Tale Retellings,keep,retained
+Fairy Tales,Fairy Tales,keep,retained
+Faith,Faith,keep,retained
+Family,Family,keep,retained
+Family Drama,Family Drama,keep,retained
+Family Life,Family Life,rare_remove,frequency_below_5
+Family Saga,Family Saga,keep,retained
+Family Sagas,Family Sagas,rare_remove,frequency_below_5
+Family Secrets,Family Secrets,rare_remove,frequency_below_5
+Fan Fiction,Fan Fiction,rare_remove,frequency_below_5
+Fandom,Fandom,keep,retained
+Fantasy,Fantasy,keep,retained
+Fantasy Of Manners,Fantasy Of Manners,rare_remove,frequency_below_5
+Fantasy Romance,Fantasy Romance,keep,retained
+Fashion,Fashion,keep,retained
+Fashion Design,Fashion Design,rare_remove,frequency_below_5
+Fashion History,Fashion History,keep,retained
+Fat,Fat,rare_remove,frequency_below_5
+Fat Acceptance,Fat Acceptance,rare_remove,frequency_below_5
+Fat Studies,Fat Studies,rare_remove,frequency_below_5
+Fatherhood,Fatherhood,keep,retained
+Female Authors,Female Authors,keep,retained
+Female Serial Killers,Female Serial Killers,rare_remove,frequency_below_5
+Feminism,Feminism,keep,retained
+Feminist Studies,Feminist Studies,rare_remove,frequency_below_5
+Feminist Theory,Feminist Theory,keep,retained
+Fiction,Fiction,keep,retained
+Field Guides,Field Guides,keep,retained
+Figure Skating,Figure Skating,keep,retained
+Film,Film,keep,retained
+Finance,Finance,keep,retained
+Financial Management,Financial Management,rare_remove,frequency_below_5
+Finnish Literature,Finnish Literature,keep,retained
+Fire Services,Fire Services,rare_remove,frequency_below_5
+Firefighters,Firefighters,keep,retained
+Fitness,Fitness,keep,retained
+Flash Fiction,Flash Fiction,rare_remove,frequency_below_5
+Folk Tales,Folk Tales,keep,retained
+Folklore,Folklore,keep,retained
+Food,Food,keep,retained
+Food History,Food History,keep,retained
+Food Preservation,Food Preservation,rare_remove,frequency_below_5
+Food Science,Food Science,rare_remove,frequency_below_5
+Food Writing,Food Writing,keep,retained
+Food and Drink,Food and Drink,keep,retained
+Food and Wine,Food and Wine,keep,retained
+Foodie,Foodie,keep,retained
+Football,Football,keep,retained
+Forbidden Love,Forbidden Love,keep,retained
+Forced Proximity,Forced Proximity,rare_remove,frequency_below_5
+Forgotten Realms,Forgotten Realms,keep,retained
+Foster Children,Foster Children,rare_remove,frequency_below_5
+Fostering,Fostering,keep,retained
+Found Family,Found Family,rare_remove,frequency_below_5
+Fractured Fairy Tales,Fractured Fairy Tales,keep,retained
+France,France,keep,retained
+French Literature,French Literature,keep,retained
+French Revolution,French Revolution,keep,retained
+Friends To Lovers,Friends To Lovers,keep,retained
+Friendship,Friendship,keep,retained
+Frugal,Frugal,rare_remove,frequency_below_5
+Functional Analysis,Functional Analysis,rare_remove,frequency_below_5
+Fundamentalism,Fundamentalism,rare_remove,frequency_below_5
+Futurism,Futurism,keep,retained
+Futuristic,Futuristic,keep,retained
+Futuristic Romance,Futuristic Romance,keep,retained
+Gabon,Gabon,rare_remove,frequency_below_5
+Game Design,Game Design,keep,retained
+Gamebooks,Gamebooks,keep,retained
+Games,Games,keep,retained
+Gaming,Gaming,keep,retained
+Gardening,Gardening,keep,retained
+Gastronomy,Gastronomy,rare_remove,frequency_below_5
+Gay,Gay,keep,retained
+Gay Erotica,Gay Erotica,keep,retained
+Gay Fiction,Gay Fiction,keep,retained
+Gay For You,Gay For You,keep,retained
+Geek,Geek,rare_remove,frequency_below_5
+Gemstones,Gemstones,rare_remove,frequency_below_5
+Gender,Gender,keep,retained
+Gender Studies,Gender Studies,keep,retained
+Gender and Sexuality,Gender and Sexuality,keep,retained
+Genetics,Genetics,keep,retained
+Geoffrey Chaucer,Geoffrey Chaucer,rare_remove,frequency_below_5
+Geography,Geography,keep,retained
+Geology,Geology,keep,retained
+Geometry,Geometry,keep,retained
+Georgian,Georgian,keep,retained
+Georgian Romance,Georgian Romance,rare_remove,frequency_below_5
+German Literature,German Literature,keep,retained
+Germany,Germany,keep,retained
+Gettysburg Campaign,Gettysburg Campaign,rare_remove,frequency_below_5
+Ghana,Ghana,keep,retained
+Ghost Stories,Ghost Stories,keep,retained
+Ghosts,Ghosts,keep,retained
+Global Warming,Global Warming,rare_remove,frequency_below_5
+Gnosticism,Gnosticism,keep,retained
+Go,Go,rare_remove,frequency_below_5
+God,God,keep,retained
+Goddess,Goddess,keep,retained
+Gods,Gods,rare_remove,frequency_below_5
+Golden Age Mystery,Golden Age Mystery,keep,retained
+Google,Google,keep,retained
+Goth,Goth,rare_remove,frequency_below_5
+Gothic,Gothic,keep,retained
+Gothic Horror,Gothic Horror,keep,retained
+Gothic Romance,Gothic Romance,keep,retained
+Government,Government,keep,retained
+Grad School,Grad School,keep,retained
+Graffiti,Graffiti,rare_remove,frequency_below_5
+Graphic Novels,Graphic Novels,keep,retained
+Graphic Novels Comics,Graphic Novels Comics,keep,retained
+Graphic Novels Comics Manga,Graphic Novels Comics Manga,rare_remove,frequency_below_5
+Graphic Novels Manga,Graphic Novels Manga,keep,retained
+Greece,Greece,keep,retained
+Greek Mythology,Greek Mythology,keep,retained
+Green,Green,keep,retained
+Grief,Grief,keep,retained
+Grimm,Grimm,rare_remove,frequency_below_5
+Growth Mindset,Growth Mindset,rare_remove,frequency_below_5
+Guidebook,Guidebook,keep,retained
+Guides,Guides,keep,retained
+Guinea,Guinea,rare_remove,frequency_below_5
+Gynaecology,Gynaecology,rare_remove,frequency_below_5
+Hackers,Hackers,keep,retained
+Hallmark,Hallmark,rare_remove,frequency_below_5
+Halloween,Halloween,keep,retained
+Hard Boiled,Hard Boiled,keep,retained
+Hard Science Fiction,Hard Science Fiction,keep,retained
+Harem,Harem,keep,retained
+Harlequin,Harlequin,keep,retained
+Harlequin Blaze,Harlequin Blaze,keep,retained
+Harlequin Desire,Harlequin Desire,keep,retained
+Harlequin Historical,Harlequin Historical,keep,retained
+Harlequin Nocturne,Harlequin Nocturne,rare_remove,frequency_below_5
+Harlequin Presents,Harlequin Presents,keep,retained
+Harlequin Romance,Harlequin Romance,keep,retained
+Harry Potter,Harry Potter,keep,retained
+Haunted House,Haunted House,rare_remove,frequency_below_5
+Health,Health,keep,retained
+Health Care,Health Care,keep,retained
+Herbs,Herbs,keep,retained
+Heritage Preservation,Heritage Preservation,rare_remove,frequency_below_5
+Heroic Fantasy,Heroic Fantasy,keep,retained
+High Fantasy,High Fantasy,keep,retained
+High School,High School,keep,retained
+Hinduism,Hinduism,keep,retained
+Hip Hop,Hip Hop,keep,retained
+Hispanic,Hispanic,keep,retained
+Historical,Historical,keep,retained
+Historical Fantasy,Historical Fantasy,keep,retained
+Historical Fiction,Historical Fiction,keep,retained
+Historical Mystery,Historical Mystery,keep,retained
+Historical Romance,Historical Romance,keep,retained
+Historical Sewing,Historical Sewing,rare_remove,frequency_below_5
+History,History,keep,retained
+History Of Medicine,History Of Medicine,rare_remove,frequency_below_5
+History Of Science,History Of Science,keep,retained
+History and Politics,History and Politics,keep,retained
+Hockey,Hockey,keep,retained
+Holiday,Holiday,keep,retained
+Holiday Romance,Holiday Romance,rare_remove,frequency_below_5
+Holland,Holland,rare_remove,frequency_below_5
+Holocaust,Holocaust,keep,retained
+Home Economics,Home Economics,rare_remove,frequency_below_5
+Home Improvement,Home Improvement,keep,retained
+Homeopathy,Homeopathy,keep,retained
+Homeschool,Homeschool,keep,retained
+Horror,Horror,keep,retained
+Horror Short Stories,Horror Short Stories,rare_remove,frequency_below_5
+Horror Thriller,Horror Thriller,keep,retained
+Horse Racing,Horse Racing,keep,retained
+Horses,Horses,keep,retained
+Horticulture,Horticulture,keep,retained
+Hospitals,Hospitals,rare_remove,frequency_below_5
+How To,How To,keep,retained
+Hqn,Hqn,keep,retained
+Hugo Awards,Hugo Awards,keep,retained
+Huguenots,Huguenots,rare_remove,frequency_below_5
+Human Resources,Human Resources,keep,retained
+Humanities,Humanities,keep,retained
+Humor,Humor,keep,retained
+Hungarian Literature,Hungarian Literature,keep,retained
+Hungary,Hungary,keep,retained
+Illness,Illness,keep,retained
+Immigration,Immigration,keep,retained
+India,India,keep,retained
+Indian Literature,Indian Literature,keep,retained
+Indigenous,Indigenous,keep,retained
+Indigenous History,Indigenous History,keep,retained
+Indonesian Literature,Indonesian Literature,keep,retained
+Informatics,Informatics,rare_remove,frequency_below_5
+Information Science,Information Science,keep,retained
+Inspirational,Inspirational,keep,retained
+Intelligent Design,Intelligent Design,rare_remove,frequency_below_5
+Interior Design,Interior Design,keep,retained
+International,International,keep,retained
+International Affairs,International Affairs,rare_remove,frequency_below_5
+International Development,International Development,keep,retained
+International Relations,International Relations,keep,retained
+Internet,Internet,keep,retained
+Interracial Romance,Interracial Romance,keep,retained
+Intersex,Intersex,rare_remove,frequency_below_5
+Investigative Journalism,Investigative Journalism,rare_remove,frequency_below_5
+Iran,Iran,keep,retained
+Ireland,Ireland,keep,retained
+Irish Literature,Irish Literature,keep,retained
+Islam,Islam,keep,retained
+Islamism,Islamism,rare_remove,frequency_below_5
+Israel,Israel,keep,retained
+Italian Literature,Italian Literature,keep,retained
+Italy,Italy,keep,retained
+Ivory Coast,Ivory Coast,rare_remove,frequency_below_5
+Jane Austen,Jane Austen,keep,retained
+Japan,Japan,keep,retained
+Japanese History,Japanese History,keep,retained
+Japanese Literature,Japanese Literature,keep,retained
+Jaws,Jaws,rare_remove,frequency_below_5
+Jazz,Jazz,keep,retained
+Jewellery,Jewellery,keep,retained
+Jewellery Making,Jewellery Making,rare_remove,frequency_below_5
+Jewish,Jewish,keep,retained
+Jokes,Jokes,rare_remove,frequency_below_5
+Josei,Josei,keep,retained
+Journal,Journal,keep,retained
+Journaling,Journaling,keep,retained
+Journalism,Journalism,keep,retained
+Judaica,Judaica,keep,retained
+Judaism,Judaism,keep,retained
+Justice,Justice,keep,retained
+Juvenile,Juvenile,keep,retained
+Kazakhstan,Kazakhstan,rare_remove,frequency_below_5
+Kennedy Family,Kennedy Family,rare_remove,frequency_below_5
+Kenya,Kenya,keep,retained
+Kidnapping,Kidnapping,keep,retained
+Kids,Kids,keep,retained
+Knitting,Knitting,keep,retained
+Komik,Komik,keep,retained
+Ku Klux Klan,Ku Klux Klan,rare_remove,frequency_below_5
+LGBT,LGBT,keep,retained
+LGBT Romance,LGBT Romance,rare_remove,frequency_below_5
+Labor,Labor,keep,retained
+Landscape Architecture,Landscape Architecture,keep,retained
+Landscaping,Landscaping,rare_remove,frequency_below_5
+Language,Language,keep,retained
+Latin American,Latin American,keep,retained
+Latin American History,Latin American History,keep,retained
+Latin American Literature,Latin American Literature,keep,retained
+Latina,Latina,rare_remove,frequency_below_5
+Latino,Latino,keep,retained
+Latinx,Latinx,keep,retained
+Law,Law,keep,retained
+Lds,Lds,keep,retained
+Lds Fiction,Lds Fiction,keep,retained
+Lds Non Fiction,Lds Non Fiction,keep,retained
+Leadership,Leadership,keep,retained
+Lebanon,Lebanon,keep,retained
+Led Zeppelin,Led Zeppelin,rare_remove,frequency_below_5
+Legal,Legal,keep,retained
+Legal Thriller,Legal Thriller,keep,retained
+Lenin,Lenin,keep,retained
+Lesbian,Lesbian,keep,retained
+Lesbian Fantasy,Lesbian Fantasy,rare_remove,frequency_below_5
+Lesbian Fiction,Lesbian Fiction,keep,retained
+Lesbian Romance,Lesbian Romance,keep,retained
+Lesotho,Lesotho,rare_remove,frequency_below_5
+Liberia,Liberia,rare_remove,frequency_below_5
+Librarianship,Librarianship,keep,retained
+Library Science,Library Science,keep,retained
+Libya,Libya,keep,retained
+Lifestyle,Lifestyle,keep,retained
+Light Novel,Light Novel,keep,retained
+Linguistics,Linguistics,keep,retained
+Lit Crit,Lit Crit,rare_remove,frequency_below_5
+Literary Criticism,Literary Criticism,keep,retained
+Literary Fiction,Literary Fiction,keep,retained
+Literature,Literature,keep,retained
+Litrpg,Litrpg,rare_remove,frequency_below_5
+Local History,Local History,keep,retained
+Locked Room,Locked Room,keep,retained
+Logic,Logic,keep,retained
+London,London,keep,retained
+Love,Love,keep,retained
+Love Inspired,Love Inspired,keep,retained
+Love Inspired Historical,Love Inspired Historical,keep,retained
+Love Inspired Suspense,Love Inspired Suspense,keep,retained
+Love Story,Love Story,keep,retained
+Lovecraftian,Lovecraftian,keep,retained
+Loveswept,Loveswept,rare_remove,frequency_below_5
+Luxemburg,Luxemburg,rare_remove,frequency_below_5
+M F M,M F M,keep,retained
+M F Romance,M F Romance,keep,retained
+M M Contemporary,M M Contemporary,keep,retained
+M M F,M M F,keep,retained
+M M Fantasy,M M Fantasy,keep,retained
+M M Historical Romance,M M Historical Romance,keep,retained
+M M M,M M M,keep,retained
+M M Paranormal,M M Paranormal,keep,retained
+M M Romance,M M Romance,keep,retained
+M M Science Fiction,M M Science Fiction,rare_remove,frequency_below_5
+M M Shapeshifters,M M Shapeshifters,keep,retained
+M M Young Adult,M M Young Adult,rare_remove,frequency_below_5
+Madagascar,Madagascar,rare_remove,frequency_below_5
+Mafia Romance,Mafia Romance,rare_remove,frequency_below_5
+Magic,Magic,keep,retained
+Magical Realism,Magical Realism,keep,retained
+Magick,Magick,keep,retained
+Mail Order Brides,Mail Order Brides,rare_remove,frequency_below_5
+Mali,Mali,rare_remove,frequency_below_5
+Management,Management,keep,retained
+Manga,Manga,keep,retained
+Manga Romance,Manga Romance,keep,retained
+Manhwa,Manhwa,keep,retained
+Mannerpunk,Mannerpunk,rare_remove,frequency_below_5
+Maps,Maps,keep,retained
+Marathi,Marathi,rare_remove,frequency_below_5
+Maritime,Maritime,keep,retained
+Marriage,Marriage,keep,retained
+Marriage Of Convenience,Marriage Of Convenience,keep,retained
+Martial Arts,Martial Arts,keep,retained
+Martyr,Martyr,rare_remove,frequency_below_5
+Marvel,Marvel,keep,retained
+Mary I,Mary I,rare_remove,frequency_below_5
+Mary Shelley,Mary Shelley,rare_remove,frequency_below_5
+Material Culture,Material Culture,keep,retained
+Mathematics,Mathematics,keep,retained
+Mauritius,Mauritius,rare_remove,frequency_below_5
+Media Tie In,Media Tie In,keep,retained
+Medical,Medical,keep,retained
+Medical Ethics,Medical Ethics,rare_remove,frequency_below_5
+Medical Thriller,Medical Thriller,keep,retained
+Medicine,Medicine,keep,retained
+Medieval,Medieval,keep,retained
+Medieval History,Medieval History,keep,retained
+Medieval Romance,Medieval Romance,keep,retained
+Meditation,Meditation,keep,retained
+Memoir,Memoir,keep,retained
+Menage,Menage,keep,retained
+Mental Health,Mental Health,keep,retained
+Mental Illness,Mental Illness,keep,retained
+Mermaids,Mermaids,keep,retained
+Metafiction,Metafiction,rare_remove,frequency_below_5
+Metaphysics,Metaphysics,keep,retained
+Microhistory,Microhistory,keep,retained
+Middle East,Middle East,keep,retained
+Middle Grade,Middle Grade,keep,retained
+Middle Grade Fantasy,Middle Grade Fantasy,rare_remove,frequency_below_5
+Military Fiction,Military Fiction,keep,retained
+Military History,Military History,keep,retained
+Military Romance,Military Romance,keep,retained
+Military Science Fiction,Military Science Fiction,keep,retained
+Military Thriller,Military Thriller,keep,retained
+Mills and Boon,Mills and Boon,keep,retained
+Mine,Mine,rare_remove,frequency_below_5
+Mineralogy,Mineralogy,rare_remove,frequency_below_5
+Mixed Martial Arts,Mixed Martial Arts,keep,retained
+Modern,Modern,keep,retained
+Modern Classics,Modern Classics,keep,retained
+Money,Money,keep,retained
+Money Management,Money Management,rare_remove,frequency_below_5
+Monsters,Monsters,keep,retained
+Mormonism,Mormonism,keep,retained
+Morocco,Morocco,keep,retained
+Moscow,Moscow,rare_remove,frequency_below_5
+Motivational,Motivational,keep,retained
+Motorcycle,Motorcycle,keep,retained
+Motorcycling,Motorcycling,rare_remove,frequency_below_5
+Mountaineering,Mountaineering,keep,retained
+Mozambique,Mozambique,rare_remove,frequency_below_5
+Multicultural Literature,Multicultural Literature,rare_remove,frequency_below_5
+Multiple Partners,Multiple Partners,rare_remove,frequency_below_5
+Multiplication,Multiplication,rare_remove,frequency_below_5
+Murder Mystery,Murder Mystery,keep,retained
+Museology,Museology,keep,retained
+Museums,Museums,keep,retained
+Music,Music,keep,retained
+Music Biography,Music Biography,keep,retained
+Musicals,Musicals,keep,retained
+Musicians,Musicians,keep,retained
+Muslimah,Muslimah,rare_remove,frequency_below_5
+Muslims,Muslims,rare_remove,frequency_below_5
+Mystery,Mystery,keep,retained
+Mystery Romance,Mystery Romance,rare_remove,frequency_below_5
+Mystery Thriller,Mystery Thriller,keep,retained
+Mysticism,Mysticism,keep,retained
+Mythical Creatures,Mythical Creatures,rare_remove,frequency_below_5
+Mythology,Mythology,keep,retained
+Namibia,Namibia,rare_remove,frequency_below_5
+Narnia,Narnia,keep,retained
+Narrative,Narrative,rare_remove,frequency_below_5
+Native American,Native American,keep,retained
+Native American History,Native American History,keep,retained
+Native Americans,Native Americans,keep,retained
+Natural History,Natural History,keep,retained
+Nature,Nature,keep,retained
+Naturopathy,Naturopathy,rare_remove,frequency_below_5
+Nautical,Nautical,keep,retained
+Naval Historical Fiction,Naval Historical Fiction,keep,retained
+Naval History,Naval History,keep,retained
+Nazi Party,Nazi Party,keep,retained
+Near Future,Near Future,keep,retained
+Nerd,Nerd,rare_remove,frequency_below_5
+Neuroscience,Neuroscience,keep,retained
+New Adult,New Adult,keep,retained
+New Age,New Age,keep,retained
+New Testament,New Testament,keep,retained
+New Weird,New Weird,keep,retained
+New York,New York,keep,retained
+Nigeria,Nigeria,keep,retained
+Nobel Prize,Nobel Prize,keep,retained
+Noir,Noir,keep,retained
+Nonfiction,Nonfiction,keep,retained
+Nordic Noir,Nordic Noir,keep,retained
+Norman,Norman,rare_remove,frequency_below_5
+Northern Africa,Northern Africa,rare_remove,frequency_below_5
+Novel In Verse,Novel In Verse,keep,retained
+Novella,Novella,keep,retained
+Novels,Novels,keep,retained
+Number,Number,keep,retained
+Number Theory,Number Theory,rare_remove,frequency_below_5
+Numeracy,Numeracy,rare_remove,frequency_below_5
+Numerology,Numerology,rare_remove,frequency_below_5
+Numismatics,Numismatics,rare_remove,frequency_below_5
+Nursery Rhymes,Nursery Rhymes,keep,retained
+Nursing,Nursing,keep,retained
+Nutrition,Nutrition,keep,retained
+Occult,Occult,keep,retained
+Occult Detective,Occult Detective,rare_remove,frequency_below_5
+Old English Literature,Old English Literature,rare_remove,frequency_below_5
+Old Testament,Old Testament,keep,retained
+Oral History,Oral History,keep,retained
+Organizational Culture,Organizational Culture,rare_remove,frequency_below_5
+Organizational Development,Organizational Development,rare_remove,frequency_below_5
+Origami,Origami,keep,retained
+Ornithology,Ornithology,keep,retained
+Outdoors,Outdoors,keep,retained
+Outlander,Outlander,rare_remove,frequency_below_5
+Outlander Series,Outlander Series,rare_remove,frequency_below_5
+Overland Campaign,Overland Campaign,rare_remove,frequency_below_5
+Own,Own,keep,retained
+Paganism,Paganism,keep,retained
+Pakistan,Pakistan,keep,retained
+Palaeontology,Palaeontology,keep,retained
+Palmistry,Palmistry,rare_remove,frequency_below_5
+Paramedics,Paramedics,rare_remove,frequency_below_5
+Paranormal,Paranormal,keep,retained
+Paranormal Mystery,Paranormal Mystery,keep,retained
+Paranormal Romance,Paranormal Romance,keep,retained
+Paranormal Urban Fantasy,Paranormal Urban Fantasy,rare_remove,frequency_below_5
+Parenting,Parenting,keep,retained
+Paris,Paris,keep,retained
+Patternmaking,Patternmaking,rare_remove,frequency_below_5
+Peak Oil,Peak Oil,rare_remove,frequency_below_5
+Pediatrics,Pediatrics,rare_remove,frequency_below_5
+Peer Review,Peer Review,rare_remove,frequency_below_5
+Percy Jackson,Percy Jackson,keep,retained
+Personal Development,Personal Development,keep,retained
+Personal Finance,Personal Finance,keep,retained
+Personal Growth,Personal Growth,keep,retained
+Pets,Pets,keep,retained
+Philosophy,Philosophy,keep,retained
+Photography,Photography,keep,retained
+Physical Therapy,Physical Therapy,keep,retained
+Physics,Physics,keep,retained
+Physiotherapy,Physiotherapy,rare_remove,frequency_below_5
+Picture Books,Picture Books,keep,retained
+Pilots,Pilots,rare_remove,frequency_below_5
+Pirates,Pirates,keep,retained
+Planetary Romance,Planetary Romance,rare_remove,frequency_below_5
+Planets,Planets,rare_remove,frequency_below_5
+Plantagenet,Plantagenet,keep,retained
+Plants,Plants,keep,retained
+Plays,Plays,keep,retained
+Plus Size,Plus Size,rare_remove,frequency_below_5
+Poetry,Poetry,keep,retained
+Poetry Plays,Poetry Plays,keep,retained
+Poland,Poland,keep,retained
+Police,Police,keep,retained
+Polish Literature,Polish Literature,keep,retained
+Political Satire,Political Satire,rare_remove,frequency_below_5
+Political Science,Political Science,keep,retained
+Political Thriller,Political Thriller,keep,retained
+Politics,Politics,keep,retained
+Polyamory,Polyamory,keep,retained
+Polygamy,Polygamy,rare_remove,frequency_below_5
+Pop Culture,Pop Culture,keep,retained
+Popular Science,Popular Science,keep,retained
+Pornography,Pornography,keep,retained
+Portugal,Portugal,keep,retained
+Portuguese Literature,Portuguese Literature,keep,retained
+Possession,Possession,rare_remove,frequency_below_5
+Post Apocalyptic,Post Apocalyptic,keep,retained
+Post Colonial,Post Colonial,keep,retained
+Poverty,Poverty,keep,retained
+Prayer,Prayer,keep,retained
+Pre K,Pre K,keep,retained
+Pre Raphaelite,Pre Raphaelite,rare_remove,frequency_below_5
+Prehistoric,Prehistoric,keep,retained
+Prehistory,Prehistory,keep,retained
+Preservation,Preservation,rare_remove,frequency_below_5
+Presidents,Presidents,keep,retained
+Princesses,Princesses,keep,retained
+Procedural,Procedural,keep,retained
+Productivity,Productivity,keep,retained
+Professional Development,Professional Development,keep,retained
+Programming,Programming,keep,retained
+Programming Languages,Programming Languages,rare_remove,frequency_below_5
+Prostitution,Prostitution,keep,retained
+Pseudoscience,Pseudoscience,keep,retained
+Psychiatry,Psychiatry,keep,retained
+Psychoanalysis,Psychoanalysis,keep,retained
+Psychohistory,Psychohistory,rare_remove,frequency_below_5
+Psychological,Psychological,keep,retained
+Psychological Drama,Psychological Drama,rare_remove,frequency_below_5
+Psychological Thriller,Psychological Thriller,keep,retained
+Psychology,Psychology,keep,retained
+Public Policy,Public Policy,keep,retained
+Pulp,Pulp,keep,retained
+Pulp Adventure,Pulp Adventure,rare_remove,frequency_below_5
+Pulp Noir,Pulp Noir,rare_remove,frequency_below_5
+Punk,Punk,keep,retained
+Puzzles,Puzzles,keep,retained
+Qualitative Research,Qualitative Research,rare_remove,frequency_below_5
+Quantum Mechanics,Quantum Mechanics,keep,retained
+Queer,Queer,keep,retained
+Queer Fantasy,Queer Fantasy,rare_remove,frequency_below_5
+Queer Lit,Queer Lit,keep,retained
+Queer Studies,Queer Studies,keep,retained
+Quilting,Quilting,keep,retained
+Rabbits,Rabbits,keep,retained
+Race,Race,keep,retained
+Racing,Racing,keep,retained
+Railways,Railways,keep,retained
+Read For College,Read For College,keep,retained
+Read For School,Read For School,keep,retained
+Realistic Fiction,Realistic Fiction,keep,retained
+Recreation,Recreation,rare_remove,frequency_below_5
+Reference,Reference,keep,retained
+Reflective,Reflective,rare_remove,frequency_below_5
+Refugee,Refugee,rare_remove,frequency_below_5
+Regency,Regency,keep,retained
+Regency Romance,Regency Romance,keep,retained
+Relationships,Relationships,keep,retained
+Religion,Religion,keep,retained
+Renaissance,Renaissance,keep,retained
+Reportage,Reportage,keep,retained
+Republic Of The Congo,Republic Of The Congo,rare_remove,frequency_below_5
+Research,Research,keep,retained
+Research Methods,Research Methods,keep,retained
+Retellings,Retellings,keep,retained
+Revenge,Revenge,keep,retained
+Road Trip,Road Trip,keep,retained
+Robots,Robots,keep,retained
+Rock Climbing,Rock Climbing,rare_remove,frequency_below_5
+Rock N Roll,Rock N Roll,keep,retained
+Role Playing Games,Role Playing Games,keep,retained
+Roller Derby,Roller Derby,rare_remove,frequency_below_5
+Rom Com,Rom Com,keep,retained
+Roman,Roman,keep,retained
+Roman Britain,Roman Britain,rare_remove,frequency_below_5
+Roman History,Roman History,keep,retained
+Romance,Romance,keep,retained
+Romania,Romania,keep,retained
+Romanian Literature,Romanian Literature,keep,retained
+Romanovs,Romanovs,rare_remove,frequency_below_5
+Romantic,Romantic,keep,retained
+Romantic Comedy,Romantic Comedy,keep,retained
+Romantic Suspense,Romantic Suspense,keep,retained
+Romantic Thriller,Romantic Thriller,rare_remove,frequency_below_5
+Romanticism,Romanticism,keep,retained
+Royal Air Force,Royal Air Force,rare_remove,frequency_below_5
+Royalty,Royalty,keep,retained
+Rus,Rus,rare_remove,frequency_below_5
+Russia,Russia,keep,retained
+Russian History,Russian History,keep,retained
+Russian Literature,Russian Literature,keep,retained
+Russian Revolution,Russian Revolution,keep,retained
+Rwanda,Rwanda,keep,retained
+Sao Tome and Principe,Sao Tome and Principe,rare_remove,frequency_below_5
+Satanism,Satanism,rare_remove,frequency_below_5
+Satire,Satire,keep,retained
+Scandinavian Literature,Scandinavian Literature,keep,retained
+School,School,keep,retained
+School Stories,School Stories,keep,retained
+Sci Fi Fantasy,Sci Fi Fantasy,keep,retained
+Science,Science,keep,retained
+Science Fiction,Science Fiction,keep,retained
+Science Fiction Fantasy,Science Fiction Fantasy,keep,retained
+Science Fiction Romance,Science Fiction Romance,keep,retained
+Science Nature,Science Nature,keep,retained
+Scores,Scores,keep,retained
+Scotland,Scotland,keep,retained
+Scripture,Scripture,keep,retained
+Second Chance,Second Chance,keep,retained
+Second Chance Romance,Second Chance Romance,keep,retained
+Secret Society,Secret Society,rare_remove,frequency_below_5
+Secrets,Secrets,keep,retained
+Seinen,Seinen,keep,retained
+Self Esteem,Self Esteem,keep,retained
+Self Help,Self Help,keep,retained
+Self Reliance,Self Reliance,rare_remove,frequency_below_5
+Semiotics,Semiotics,keep,retained
+Senegal,Senegal,rare_remove,frequency_below_5
+Sequential Art,Sequential Art,keep,retained
+Serbian Literature,Serbian Literature,keep,retained
+Serial Killer,Serial Killer,keep,retained
+Sewing,Sewing,keep,retained
+Sex Work,Sex Work,keep,retained
+Sexuality,Sexuality,keep,retained
+Shakespeare,Shakespeare,keep,retained
+Shapeshifters,Shapeshifters,keep,retained
+Shojo,Shojo,keep,retained
+Shonen,Shonen,keep,retained
+Short Stories,Short Stories,keep,retained
+Short Story Collection,Short Story Collection,keep,retained
+Shounen Ai,Shounen Ai,keep,retained
+Sierra Leone,Sierra Leone,rare_remove,frequency_below_5
+Siglo De Oro,Siglo De Oro,rare_remove,frequency_below_5
+Silhouette,Silhouette,keep,retained
+Singularity,Singularity,rare_remove,frequency_below_5
+Sisterhood,Sisterhood,rare_remove,frequency_below_5
+Sisters,Sisters,keep,retained
+Skepticism,Skepticism,keep,retained
+Slice Of Life,Slice Of Life,keep,retained
+Slow Burn,Slow Burn,keep,retained
+Small Business,Small Business,rare_remove,frequency_below_5
+Small Town Romance,Small Town Romance,rare_remove,frequency_below_5
+Smut,Smut,keep,retained
+Soccer,Soccer,keep,retained
+Social,Social,keep,retained
+Social Change,Social Change,rare_remove,frequency_below_5
+Social Commentary,Social Commentary,keep,retained
+Social Issues,Social Issues,keep,retained
+Social Justice,Social Justice,keep,retained
+Social Media,Social Media,keep,retained
+Social Movements,Social Movements,keep,retained
+Social Science,Social Science,keep,retained
+Social Welfare,Social Welfare,rare_remove,frequency_below_5
+Social Work,Social Work,keep,retained
+Society,Society,keep,retained
+Sociology,Sociology,keep,retained
+Software,Software,keep,retained
+Somalia,Somalia,keep,retained
+South Africa,South Africa,keep,retained
+South Sudan,South Sudan,rare_remove,frequency_below_5
+Southern,Southern,keep,retained
+Southern Africa,Southern Africa,keep,retained
+Southern Gothic,Southern Gothic,keep,retained
+Soviet History,Soviet History,keep,retained
+Soviet Union,Soviet Union,keep,retained
+Space,Space,keep,retained
+Space Opera,Space Opera,keep,retained
+Spain,Spain,keep,retained
+Spanish Civil War,Spanish Civil War,keep,retained
+Spanish History,Spanish History,keep,retained
+Spanish Literature,Spanish Literature,keep,retained
+Speculative Fiction,Speculative Fiction,keep,retained
+Spicy,Spicy,keep,retained
+Spider Man,Spider Man,keep,retained
+Spiritualism,Spiritualism,keep,retained
+Spirituality,Spirituality,keep,retained
+Splatterpunk,Splatterpunk,keep,retained
+Sports,Sports,keep,retained
+Sports Romance,Sports Romance,keep,retained
+Spy Thriller,Spy Thriller,keep,retained
+Stalker,Stalker,rare_remove,frequency_below_5
+Stand Up,Stand Up,rare_remove,frequency_below_5
+Star Trek,Star Trek,keep,retained
+Star Trek Deep Space Nine,Star Trek Deep Space Nine,keep,retained
+Star Trek Enterprise,Star Trek Enterprise,rare_remove,frequency_below_5
+Star Trek Original Series,Star Trek Original Series,keep,retained
+Star Trek The Next Generation,Star Trek The Next Generation,keep,retained
+Star Trek Voyager,Star Trek Voyager,rare_remove,frequency_below_5
+Star Wars,Star Wars,keep,retained
+Startup,Startup,keep,retained
+Steampunk,Steampunk,keep,retained
+Steamy,Steamy,keep,retained
+Stem,Stem,keep,retained
+Stories,Stories,rare_remove,frequency_below_5
+Storytime,Storytime,keep,retained
+Street Art,Street Art,rare_remove,frequency_below_5
+Stuart,Stuart,rare_remove,frequency_below_5
+Students,Students,rare_remove,frequency_below_5
+Sudan,Sudan,keep,retained
+Summer,Summer,keep,retained
+Summer Reads,Summer Reads,keep,retained
+Superheroes,Superheroes,keep,retained
+Superman,Superman,keep,retained
+Supernatural,Supernatural,keep,retained
+Supernatural Horror,Supernatural Horror,rare_remove,frequency_below_5
+Superstition,Superstition,rare_remove,frequency_below_5
+Surreal,Surreal,keep,retained
+Survival,Survival,keep,retained
+Suspense,Suspense,keep,retained
+Sustainability,Sustainability,keep,retained
+Swashbuckling,Swashbuckling,keep,retained
+Swaziland,Swaziland,rare_remove,frequency_below_5
+Sweden,Sweden,keep,retained
+Swedish Literature,Swedish Literature,keep,retained
+Sword and Planet,Sword and Planet,keep,retained
+Sword and Sorcery,Sword and Sorcery,keep,retained
+Tanzania,Tanzania,keep,retained
+Taoism,Taoism,keep,retained
+Tarot,Tarot,keep,retained
+Tasmania,Tasmania,keep,retained
+Taxation,Taxation,rare_remove,frequency_below_5
+Tea,Tea,keep,retained
+Teachers,Teachers,keep,retained
+Teaching,Teaching,keep,retained
+Tear Jerker,Tear Jerker,rare_remove,frequency_below_5
+Technical,Technical,keep,retained
+Technology,Technology,keep,retained
+Teen,Teen,keep,retained
+Terrorism,Terrorism,keep,retained
+Textbooks,Textbooks,keep,retained
+Thanksgiving,Thanksgiving,keep,retained
+The Alps,The Alps,rare_remove,frequency_below_5
+The Americas,The Americas,keep,retained
+The Gambia,The Gambia,rare_remove,frequency_below_5
+The United States Of America,The United States Of America,keep,retained
+The World,The World,keep,retained
+Theatre,Theatre,keep,retained
+Thelema,Thelema,keep,retained
+Theology,Theology,keep,retained
+Theory,Theory,keep,retained
+Theosophy,Theosophy,keep,retained
+Thriller,Thriller,keep,retained
+Thriller Puzzle,Thriller Puzzle,rare_remove,frequency_below_5
+Thriller Suspense,Thriller Suspense,keep,retained
+Time Travel,Time Travel,keep,retained
+Time Travel Romance,Time Travel Romance,keep,retained
+Traditional Chinese Medicine,Traditional Chinese Medicine,keep,retained
+Traditional Regency,Traditional Regency,keep,retained
+Tragedy,Tragedy,keep,retained
+Trains,Trains,keep,retained
+Transgender,Transgender,keep,retained
+Transmississippi,Transmississippi,rare_remove,frequency_below_5
+Transport,Transport,keep,retained
+Travel,Travel,keep,retained
+Travelogue,Travelogue,keep,retained
+Trivia,Trivia,keep,retained
+Trucks,Trucks,keep,retained
+True Crime,True Crime,keep,retained
+True Story,True Story,keep,retained
+Tudor Period,Tudor Period,keep,retained
+Tunisia,Tunisia,rare_remove,frequency_below_5
+Turkish,Turkish,keep,retained
+Turkish Literature,Turkish Literature,keep,retained
+Tv,Tv,keep,retained
+Uganda,Uganda,keep,retained
+Ukraine,Ukraine,keep,retained
+Ukrainian Literature,Ukrainian Literature,rare_remove,frequency_below_5
+Underground Railway,Underground Railway,rare_remove,frequency_below_5
+Unfinished,Unfinished,keep,retained
+Unicorns,Unicorns,keep,retained
+United States,United States,keep,retained
+Upstairs Downstairs,Upstairs Downstairs,rare_remove,frequency_below_5
+Urban,Urban,keep,retained
+Urban Design,Urban Design,keep,retained
+Urban Fantasy,Urban Fantasy,keep,retained
+Urban Legends,Urban Legends,rare_remove,frequency_below_5
+Urban Planning,Urban Planning,keep,retained
+Urban Studies,Urban Studies,keep,retained
+Urbanism,Urbanism,keep,retained
+Us Presidents,Us Presidents,keep,retained
+Usability,Usability,rare_remove,frequency_below_5
+Utopia,Utopia,keep,retained
+Vaccines,Vaccines,rare_remove,frequency_below_5
+Vampire Romance,Vampire Romance,keep,retained
+Vampires,Vampires,keep,retained
+Vegan,Vegan,keep,retained
+Vegetarian,Vegetarian,keep,retained
+Vegetarianism,Vegetarianism,rare_remove,frequency_below_5
+Vespa,Vespa,rare_remove,frequency_below_5
+Victor Frankenstein,Victor Frankenstein,rare_remove,frequency_below_5
+Victorian,Victorian,keep,retained
+Victorian Romance,Victorian Romance,rare_remove,frequency_below_5
+Video Games,Video Games,keep,retained
+Viking Romance,Viking Romance,keep,retained
+Virtual Reality,Virtual Reality,rare_remove,frequency_below_5
+Visual Art,Visual Art,keep,retained
+Walking,Walking,keep,retained
+War,War,keep,retained
+Warcraft,Warcraft,rare_remove,frequency_below_5
+Warriors,Warriors,rare_remove,frequency_below_5
+Web,Web,keep,retained
+Webcomic,Webcomic,keep,retained
+Website Design,Website Design,keep,retained
+Weird Fiction,Weird Fiction,keep,retained
+Weird West,Weird West,rare_remove,frequency_below_5
+Werewolves,Werewolves,keep,retained
+Western Africa,Western Africa,keep,retained
+Western Historical Romance,Western Historical Romance,keep,retained
+Western Romance,Western Romance,keep,retained
+Westerns,Westerns,keep,retained
+Whodunit,Whodunit,rare_remove,frequency_below_5
+Wicca,Wicca,keep,retained
+Wilderness,Wilderness,keep,retained
+Wildlife,Wildlife,keep,retained
+Wine,Wine,keep,retained
+Witchcraft,Witchcraft,keep,retained
+Witches,Witches,keep,retained
+Wizards,Wizards,rare_remove,frequency_below_5
+Wolves,Wolves,keep,retained
+Womens,Womens,keep,retained
+Womens Fiction,Womens Fiction,keep,retained
+Womens Rights,Womens Rights,rare_remove,frequency_below_5
+Womens Studies,Womens Studies,keep,retained
+Wonder Woman,Wonder Woman,keep,retained
+Woodwork,Woodwork,keep,retained
+Words,Words,keep,retained
+World History,World History,keep,retained
+World Literature,World Literature,keep,retained
+World Of Darkness,World Of Darkness,keep,retained
+World Of Warcraft,World Of Warcraft,rare_remove,frequency_below_5
+World War I,World War I,keep,retained
+World War II,World War II,keep,retained
+Writing,Writing,keep,retained
+Wwii Fiction,Wwii Fiction,keep,retained
+X Men,X Men,keep,retained
+YA Horror,YA Horror,keep,retained
+Yaoi,Yaoi,keep,retained
+Young Adult,Young Adult,keep,retained
+Young Adult Contemporary,Young Adult Contemporary,keep,retained
+Young Adult Fantasy,Young Adult Fantasy,keep,retained
+Young Adult Historical Fiction,Young Adult Historical Fiction,keep,retained
+Young Adult Horror,Young Adult Horror,rare_remove,frequency_below_5
+Young Adult Paranormal,Young Adult Paranormal,rare_remove,frequency_below_5
+Young Adult Romance,Young Adult Romance,keep,retained
+Young Readers,Young Readers,keep,retained
+Yuri,Yuri,rare_remove,frequency_below_5
+Zambia,Zambia,rare_remove,frequency_below_5
+Zen,Zen,keep,retained
+Zimbabwe,Zimbabwe,keep,retained
+Zombies,Zombies,keep,retained
+漫画,漫画,rare_remove,frequency_below_5

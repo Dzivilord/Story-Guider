@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    "Book",
+    "Work",
+    "Author",
+    "Genre",
+    "Series",
+    "Publisher",
+    "Language"
+  ],
+  "edges": [
+    {
+      "edge_type": "Book-WORK-Work",
+      "number_of_edges": 204998,
+      "coverage": 100.0,
+      "target_field": "work_id"
+    },
+    {
+      "edge_type": "Book-AUTHOR-Author",
+      "number_of_edges": 204989,
+      "coverage": 99.99,
+      "target_field": "first_author"
+    },
+    {
+      "edge_type": "Book-GENRE-Genre",
+      "number_of_edges": 205000,
+      "coverage": 100.0,
+      "target_field": "genres"
+    },
+    {
+      "edge_type": "Book-SERIES-Series",
+      "number_of_edges": 205000,
+      "coverage": 100.0,
+      "target_field": "series"
+    },
+    {
+      "edge_type": "Book-LANGUAGE-Language",
+      "number_of_edges": 197141,
+      "coverage": 96.17,
+      "target_field": "language"
+    }
+  ]
+}

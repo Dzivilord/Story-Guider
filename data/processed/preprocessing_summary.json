@@ -1,0 +1,91 @@
+{
+  "input": {
+    "rows": 205000,
+    "columns": 16,
+    "unique_work_id": 196377,
+    "unique_book_id": 205000,
+    "missing_work_id": 2,
+    "missing_title": 0,
+    "missing_first_author": 11,
+    "missing_description": 26940
+  },
+  "work_aggregation": {
+    "editions_removed": 40133,
+    "final_unique_works": 164867,
+    "description_enriched": 2791,
+    "genres_enriched": 39,
+    "series_enriched": 0
+  },
+  "language": {
+    "works_before_filter": 196377,
+    "english_kept": 164873,
+    "non_english_removed": 31504,
+    "missing_language_recovered": 4443
+  },
+  "genres": {
+    "raw_unique": 1229,
+    "canonical_unique": 942,
+    "rare_removed": 580
+  },
+  "series": {
+    "raw_unique": 18763,
+    "canonical_unique": 18763
+  },
+  "text_readiness": {
+    "books_with_description": 144707,
+    "books_without_description": 20160,
+    "books_without_description_but_have_tags": 563,
+    "books_without_description_but_have_author": 20160,
+    "books_without_description_but_have_series": 240,
+    "books_without_description_and_no_useful_metadata": 2
+  },
+  "ratings": {
+    "global_mean": 3.837221141487477,
+    "m_candidates": {
+      "0.5": 3.0,
+      "0.6": 7.0,
+      "0.7": 19.0,
+      "0.75": 34.0
+    },
+    "chosen_m": 34.0,
+    "pearson_log_reviews_ratings": 0.9504839276682614,
+    "spearman_log_reviews_ratings": 0.8730724645372129
+  },
+  "removed_records": {
+    "total": 31512,
+    "by_reason": {
+      "non_english": 31504,
+      "insufficient_textual_metadata": 6,
+      "missing_work_id": 2
+    }
+  },
+  "final_dataset": {
+    "rows": 164867,
+    "columns": 25,
+    "column_names": [
+      "work_id",
+      "title",
+      "description",
+      "first_author",
+      "content_tags",
+      "series",
+      "earliest_known_publication_year",
+      "publication_decade",
+      "pages",
+      "length_category",
+      "average_rating",
+      "ratings_count",
+      "reviews_count",
+      "has_rating",
+      "rating_confidence",
+      "weighted_rating",
+      "log_ratings_count",
+      "log_reviews_count",
+      "num_editions",
+      "log_num_editions",
+      "is_part_of_series",
+      "url",
+      "language"
+    ]
+  }
+}

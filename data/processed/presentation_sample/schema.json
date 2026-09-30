@@ -1,0 +1,145 @@
+{
+  "source": "data/processed/goodreads_books_processed.parquet",
+  "row_count": 164867,
+  "column_count": 23,
+  "columns": [
+    {
+      "column": "work_id",
+      "dtype": "float64",
+      "non_null": 164867,
+      "null_count": 0
+    },
+    {
+      "column": "title",
+      "dtype": "str",
+      "non_null": 164867,
+      "null_count": 0
+    },
+    {
+      "column": "description",
+      "dtype": "str",
+      "non_null": 144707,
+      "null_count": 20160
+    },
+    {
+      "column": "first_author",
+      "dtype": "str",
+      "non_null": 164867,
+      "null_count": 0
+    },
+    {
+      "column": "content_tags",
+      "dtype": "str",
+      "non_null": 164867,
+      "null_count": 0
+    },
+    {
+      "column": "series",
+      "dtype": "object",
+      "non_null": 164867,
+      "null_count": 0
+    },
+    {
+      "column": "earliest_known_publication_year",
+      "dtype": "float64",
+      "non_null": 155983,
+      "null_count": 8884
+    },
+    {
+      "column": "publication_decade",
+      "dtype": "str",
+      "non_null": 155983,
+      "null_count": 8884
+    },
+    {
+      "column": "pages",
+      "dtype": "float64",
+      "non_null": 141316,
+      "null_count": 23551
+    },
+    {
+      "column": "length_category",
+      "dtype": "str",
+      "non_null": 164867,
+      "null_count": 0
+    },
+    {
+      "column": "average_rating",
+      "dtype": "float64",
+      "non_null": 164867,
+      "null_count": 0
+    },
+    {
+      "column": "ratings_count",
+      "dtype": "float64",
+      "non_null": 164867,
+      "null_count": 0
+    },
+    {
+      "column": "reviews_count",
+      "dtype": "float64",
+      "non_null": 164867,
+      "null_count": 0
+    },
+    {
+      "column": "has_rating",
+      "dtype": "bool",
+      "non_null": 164867,
+      "null_count": 0
+    },
+    {
+      "column": "rating_confidence",
+      "dtype": "float64",
+      "non_null": 164867,
+      "null_count": 0
+    },
+    {
+      "column": "weighted_rating",
+      "dtype": "float64",
+      "non_null": 115148,
+      "null_count": 49719
+    },
+    {
+      "column": "log_ratings_count",
+      "dtype": "float64",
+      "non_null": 164867,
+      "null_count": 0
+    },
+    {
+      "column": "log_reviews_count",
+      "dtype": "float64",
+      "non_null": 164867,
+      "null_count": 0
+    },
+    {
+      "column": "num_editions",
+      "dtype": "float64",
+      "non_null": 164867,
+      "null_count": 0
+    },
+    {
+      "column": "log_num_editions",
+      "dtype": "float64",
+      "non_null": 164867,
+      "null_count": 0
+    },
+    {
+      "column": "is_part_of_series",
+      "dtype": "bool",
+      "non_null": 164867,
+      "null_count": 0
+    },
+    {
+      "column": "url",
+      "dtype": "str",
+      "non_null": 164867,
+      "null_count": 0
+    },
+    {
+      "column": "language",
+      "dtype": "str",
+      "non_null": 164867,
+      "null_count": 0
+    }
+  ]
+}

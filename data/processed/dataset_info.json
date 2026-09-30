@@ -1,0 +1,157 @@
+{
+  "builder_name": "parquet",
+  "citation": "",
+  "config_name": "default",
+  "dataset_name": "goodreads-books",
+  "dataset_size": 208748493,
+  "description": "",
+  "download_size": 72999894,
+  "features": {
+    "title": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "contributors": {
+      "feature": {
+        "name": {
+          "dtype": "string",
+          "_type": "Value"
+        },
+        "url": {
+          "dtype": "string",
+          "_type": "Value"
+        },
+        "role": {
+          "dtype": "string",
+          "_type": "Value"
+        },
+        "num_followers": {
+          "dtype": "int64",
+          "_type": "Value"
+        },
+        "num_distinct_works": {
+          "dtype": "int64",
+          "_type": "Value"
+        }
+      },
+      "_type": "List"
+    },
+    "first_author": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "description": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "genres": {
+      "feature": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "_type": "List"
+    },
+    "series": {
+      "feature": {
+        "name": {
+          "dtype": "string",
+          "_type": "Value"
+        },
+        "position": {
+          "dtype": "string",
+          "_type": "Value"
+        }
+      },
+      "_type": "List"
+    },
+    "format": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "pages": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "language": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "asin": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "isbn10": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "isbn13": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "publisher": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "publication_date": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "average_rating": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "ratings_count": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "reviews_count": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "work_id": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "catalog_guideline_violation": {
+      "dtype": "bool",
+      "_type": "Value"
+    },
+    "book_id": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "url": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "num_editions": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "has_more_editions": {
+      "dtype": "bool",
+      "_type": "Value"
+    },
+    "is_part_of_series": {
+      "dtype": "bool",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 281748387,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 208748493,
+      "num_examples": 205000,
+      "dataset_name": "goodreads-books"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}

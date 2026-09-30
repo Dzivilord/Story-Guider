@@ -1,0 +1,7 @@
+field,missing,unique,duplicates,coverage_pct
+book_id,0,205000,0,100.0
+work_id,2,196377,8621,100.0
+isbn10,11813,193187,0,94.24
+isbn13,12408,192592,0,93.95
+asin,1113,203887,0,99.46
+url,0,205000,0,100.0

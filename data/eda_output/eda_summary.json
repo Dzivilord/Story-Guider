@@ -1,0 +1,443 @@
+{
+  "dataset": {
+    "rows": 205000,
+    "columns": 24,
+    "column_names": [
+      "title",
+      "contributors",
+      "first_author",
+      "description",
+      "genres",
+      "series",
+      "format",
+      "pages",
+      "language",
+      "asin",
+      "isbn10",
+      "isbn13",
+      "publisher",
+      "publication_date",
+      "average_rating",
+      "ratings_count",
+      "reviews_count",
+      "work_id",
+      "catalog_guideline_violation",
+      "book_id",
+      "url",
+      "num_editions",
+      "has_more_editions",
+      "is_part_of_series"
+    ]
+  },
+  "description": {
+    "available": 178056,
+    "missing": 26944,
+    "coverage_pct": 86.86
+  },
+  "genres": {
+    "unique_genres": 47232,
+    "books_with_genres": 205000,
+    "top_genres": [
+      {
+        "genre": "[]",
+        "book_count": 126043,
+        "percentage_of_books": 61.48439024390244,
+        "average_rating_mean": 1.9815481470315215,
+        "average_rating_median": 2.0
+      },
+      {
+        "genre": "[\"Nonfiction\"]",
+        "book_count": 1489,
+        "percentage_of_books": 0.7263414634146341,
+        "average_rating_mean": 3.745090664875755,
+        "average_rating_median": 3.78
+      },
+      {
+        "genre": "[\"History\"]",
+        "book_count": 1133,
+        "percentage_of_books": 0.5526829268292682,
+        "average_rating_mean": 3.7477316857899385,
+        "average_rating_median": 3.8
+      },
+      {
+        "genre": "[\"Poetry\"]",
+        "book_count": 948,
+        "percentage_of_books": 0.46243902439024387,
+        "average_rating_mean": 3.989873417721519,
+        "average_rating_median": 4.02
+      },
+      {
+        "genre": "[\"Fiction\"]",
+        "book_count": 813,
+        "percentage_of_books": 0.39658536585365856,
+        "average_rating_mean": 3.614649446494465,
+        "average_rating_median": 3.63
+      },
+      {
+        "genre": "[\"Childrens\"]",
+        "book_count": 568,
+        "percentage_of_books": 0.27707317073170734,
+        "average_rating_mean": 3.775387323943662,
+        "average_rating_median": 3.81
+      },
+      {
+        "genre": "[\"Philosophy\"]",
+        "book_count": 451,
+        "percentage_of_books": 0.22,
+        "average_rating_mean": 3.817272727272727,
+        "average_rating_median": 3.91
+      },
+      {
+        "genre": "[\"Art\"]",
+        "book_count": 446,
+        "percentage_of_books": 0.2175609756097561,
+        "average_rating_mean": 3.9877354260089684,
+        "average_rating_median": 4.055
+      },
+      {
+        "genre": "[\"Picture Books\"]",
+        "book_count": 345,
+        "percentage_of_books": 0.16829268292682928,
+        "average_rating_mean": 3.6920289855072466,
+        "average_rating_median": 3.74
+      },
+      {
+        "genre": "[\"Music\"]",
+        "book_count": 339,
+        "percentage_of_books": 0.1653658536585366,
+        "average_rating_mean": 3.9844542772861358,
+        "average_rating_median": 4.0
+      },
+      {
+        "genre": "[\"Mystery\"]",
+        "book_count": 332,
+        "percentage_of_books": 0.16195121951219513,
+        "average_rating_mean": 3.624638554216868,
+        "average_rating_median": 3.64
+      },
+      {
+        "genre": "[\"Romance\"]",
+        "book_count": 300,
+        "percentage_of_books": 0.14634146341463414,
+        "average_rating_mean": 3.5615666666666668,
+        "average_rating_median": 3.5949999999999998
+      },
+      {
+        "genre": "[\"Cookbooks\"]",
+        "book_count": 286,
+        "percentage_of_books": 0.13951219512195123,
+        "average_rating_mean": 3.6969230769230768,
+        "average_rating_median": 3.9699999999999998
+      },
+      {
+        "genre": "[\"Reference\"]",
+        "book_count": 268,
+        "percentage_of_books": 0.13073170731707318,
+        "average_rating_mean": 3.656268656716418,
+        "average_rating_median": 3.915
+      },
+      {
+        "genre": "[\"History\", \"Nonfiction\"]",
+        "book_count": 268,
+        "percentage_of_books": 0.13073170731707318,
+        "average_rating_mean": 3.78544776119403,
+        "average_rating_median": 3.81
+      },
+      {
+        "genre": "[\"Biography\"]",
+        "book_count": 252,
+        "percentage_of_books": 0.12292682926829268,
+        "average_rating_mean": 3.771150793650794,
+        "average_rating_median": 3.83
+      },
+      {
+        "genre": "[\"Travel\"]",
+        "book_count": 247,
+        "percentage_of_books": 0.12048780487804878,
+        "average_rating_mean": 3.7230364372469635,
+        "average_rating_median": 3.86
+      },
+      {
+        "genre": "[\"Picture Books\", \"Childrens\"]",
+        "book_count": 227,
+        "percentage_of_books": 0.11073170731707316,
+        "average_rating_mean": 3.801057268722467,
+        "average_rating_median": 3.8
+      },
+      {
+        "genre": "[\"Manga\"]",
+        "book_count": 220,
+        "percentage_of_books": 0.10731707317073172,
+        "average_rating_mean": 3.7619545454545453,
+        "average_rating_median": 3.825
+      },
+      {
+        "genre": "[\"Science\"]",
+        "book_count": 219,
+        "percentage_of_books": 0.10682926829268292,
+        "average_rating_mean": 3.76013698630137,
+        "average_rating_median": 3.86
+      }
+    ]
+  },
+  "authors": {
+    "unique_authors": 149525
+  },
+  "series": {
+    "unique_series": 0,
+    "books_in_series": 205000
+  },
+  "ratings": [
+    {
+      "field": "average_rating",
+      "count": 204998,
+      "missing": 2,
+      "min": 0.0,
+      "max": 5.0,
+      "mean": 2.7002059044478486,
+      "median": 3.61,
+      "p25": 0.0,
+      "p75": 4.0,
+      "p90": 4.38,
+      "p95": 4.75,
+      "p99": 5.0
+    },
+    {
+      "field": "ratings_count",
+      "count": 204998,
+      "missing": 2,
+      "min": 0.0,
+      "max": 10283153.0,
+      "mean": 11343.452745880448,
+      "median": 4.0,
+      "p25": 0.0,
+      "p75": 54.0,
+      "p90": 1209.0,
+      "p95": 7761.299999999988,
+      "p99": 185709.0
+    },
+    {
+      "field": "reviews_count",
+      "count": 204998,
+      "missing": 2,
+      "min": 0.0,
+      "max": 277451.0,
+      "mean": 443.91106742504803,
+      "median": 0.0,
+      "p25": 0.0,
+      "p75": 6.0,
+      "p90": 96.0,
+      "p95": 494.1499999999942,
+      "p99": 9071.059999999998
+    }
+  ],
+  "works_and_editions": {
+    "unique_works": 196377,
+    "books_per_work": {
+      "count": 196377.0,
+      "mean": 1.043900253084628,
+      "std": 0.3681833902158016,
+      "min": 1.0,
+      "25%": 1.0,
+      "50%": 1.0,
+      "75%": 1.0,
+      "max": 26.0
+    },
+    "top_works": {
+      "10000035.0": 1,
+      "10000045.0": 1,
+      "1000020.0": 1,
+      "1000029.0": 1,
+      "100007.0": 1,
+      "1000070.0": 1,
+      "1000099.0": 1,
+      "10000997.0": 1,
+      "10001001.0": 1,
+      "1000104.0": 1,
+      "10001238.0": 1,
+      "10001370.0": 1,
+      "1000144.0": 1,
+      "10001546.0": 1,
+      "100019.0": 1,
+      "1000211.0": 1,
+      "1000220.0": 1,
+      "10002238.0": 1,
+      "10002309.0": 1,
+      "10002313.0": 1,
+      "1000234.0": 1,
+      "10002519.0": 1,
+      "10002542.0": 1,
+      "1000259.0": 1,
+      "1000289.0": 1,
+      "10003091.0": 1,
+      "1000315.0": 1,
+      "10003193.0": 1,
+      "1000324.0": 1,
+      "100036.0": 1,
+      "10003769.0": 1,
+      "10003799.0": 1,
+      "10004240.0": 1,
+      "1000427.0": 1,
+      "10004391.0": 1,
+      "1000451.0": 1,
+      "10004623.0": 1,
+      "1000471.0": 1,
+      "10004967.0": 1,
+      "10004981.0": 1,
+      "10005294.0": 1,
+      "10005394.0": 1,
+      "10005592.0": 1,
+      "10005641.0": 1,
+      "10005828.0": 1,
+      "10006048.0": 1,
+      "1000610.0": 1,
+      "10006288.0": 1,
+      "10006525.0": 1,
+      "10006899.0": 1
+    }
+  },
+  "semantic_search_readiness": {
+    "description_available": 178056,
+    "metadata_fallback": 26944,
+    "low_textual_metadata": 0
+  },
+  "graph_readiness": {
+    "nodes": [
+      "Book",
+      "Work",
+      "Author",
+      "Genre",
+      "Series",
+      "Publisher",
+      "Language"
+    ],
+    "edges": [
+      {
+        "edge_type": "Book-WORK-Work",
+        "number_of_edges": 204998,
+        "coverage": 100.0,
+        "target_field": "work_id"
+      },
+      {
+        "edge_type": "Book-AUTHOR-Author",
+        "number_of_edges": 204989,
+        "coverage": 99.99,
+        "target_field": "first_author"
+      },
+      {
+        "edge_type": "Book-GENRE-Genre",
+        "number_of_edges": 205000,
+        "coverage": 100.0,
+        "target_field": "genres"
+      },
+      {
+        "edge_type": "Book-SERIES-Series",
+        "number_of_edges": 205000,
+        "coverage": 100.0,
+        "target_field": "series"
+      },
+      {
+        "edge_type": "Book-LANGUAGE-Language",
+        "number_of_edges": 197141,
+        "coverage": 96.17,
+        "target_field": "language"
+      }
+    ]
+  },
+  "search_readiness": [
+    {
+      "field": "title",
+      "coverage_count": 205000,
+      "coverage_percentage": 100.0,
+      "unique_count": 198203,
+      "possible_role": "text"
+    },
+    {
+      "field": "description",
+      "coverage_count": 178056,
+      "coverage_percentage": 86.86,
+      "unique_count": 164803,
+      "possible_role": "text"
+    },
+    {
+      "field": "first_author",
+      "coverage_count": 204989,
+      "coverage_percentage": 99.99,
+      "unique_count": 149526,
+      "possible_role": "categorical"
+    },
+    {
+      "field": "genres",
+      "coverage_count": 205000,
+      "coverage_percentage": 100.0,
+      "unique_count": 47232,
+      "possible_role": "relationship"
+    },
+    {
+      "field": "series",
+      "coverage_count": 205000,
+      "coverage_percentage": 100.0,
+      "unique_count": 21147,
+      "possible_role": "relationship"
+    },
+    {
+      "field": "language",
+      "coverage_count": 197141,
+      "coverage_percentage": 96.17,
+      "unique_count": 101,
+      "possible_role": "categorical"
+    },
+    {
+      "field": "publisher",
+      "coverage_count": 198580,
+      "coverage_percentage": 96.87,
+      "unique_count": 49361,
+      "possible_role": "categorical"
+    },
+    {
+      "field": "average_rating",
+      "coverage_count": 204998,
+      "coverage_percentage": 100.0,
+      "unique_count": 307,
+      "possible_role": "numerical"
+    }
+  ],
+  "data_quality": [
+    {
+      "issue": "description_missing",
+      "affected_rows": 26944,
+      "percentage": 13.14,
+      "example_values": []
+    },
+    {
+      "issue": "genres_missing",
+      "affected_rows": 0,
+      "percentage": 0.0,
+      "example_values": []
+    },
+    {
+      "issue": "series_missing",
+      "affected_rows": 0,
+      "percentage": 0.0,
+      "example_values": []
+    },
+    {
+      "issue": "author_missing",
+      "affected_rows": 11,
+      "percentage": 0.01,
+      "example_values": []
+    },
+    {
+      "issue": "language_missing",
+      "affected_rows": 7859,
+      "percentage": 3.83,
+      "example_values": []
+    },
+    {
+      "issue": "invalid_publication_date",
+      "affected_rows": 12667,
+      "percentage": 6.18,
+      "example_values": []
+    }
+  ]
+}
