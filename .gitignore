@@ -21,5 +21,11 @@ logs/
 # Generated embedding/index artifacts; keep only the directory marker.
 data/embeddings/*
 !data/embeddings/.gitkeep
+
+# Generated datasets and serialized model artifacts; keep only directory markers.
+data/processed/*
+!data/processed/.gitkeep
+data/raw_data/*
+!data/raw_data/.gitkeep
 artifacts/faiss/*
 !artifacts/faiss/.gitkeep
