@@ -10,6 +10,8 @@ from .config import GENRES
 from datetime import datetime
 from .searchservice import BookSearchService
 from .recommendation.engine import ContentRecommendationService
+from .bookguide.agent import BookGuide
+from .bookguide.schemas import GuideRequest, GuidePlanRequest
 
 Base.metadata.create_all(engine); app=FastAPI(title='Goodreads RecSys API')
 app.add_middleware(CORSMiddleware, allow_origins=['http://localhost:3000','http://127.0.0.1:3000'], allow_credentials=True, allow_methods=['*'], allow_headers=['*'])
@@ -88,6 +90,14 @@ def personalized_recommendations(user_id:str,payload:UserRecommendationIn,db:Ses
         return {'user_id':user_id,'model_version':version,'interaction_count':len(profile.interacted_ids),'results':results}
     except (FileNotFoundError,OSError,ValueError,ImportError) as error:
         raise HTTPException(503,f'Recommendation engine unavailable: {error}') from error
+@app.post('/bookguide')
+def bookguide(payload:GuideRequest,db:Session=Depends(get_db)):
+    if not db.get(User,payload.user_id): raise HTTPException(404,'User not found')
+    try: return BookGuide(db).run(payload.user_id,payload.query,payload.top_k).model_dump()
+    except (FileNotFoundError,OSError,ValueError,ImportError) as error: raise HTTPException(503,f'BookGuide unavailable: {error}') from error
+@app.post('/bookguide/plan')
+def bookguide_plan(payload:GuidePlanRequest):
+    return BookGuide().plan(payload.query).model_dump()
 @app.post('/users')
 def create_user(payload:UserIn,db:Session=Depends(get_db)):
     n=db.query(User).count()+1; uid=f'U{n:03d}'
