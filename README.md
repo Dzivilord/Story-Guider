@@ -183,21 +183,23 @@ BookRecSys/
 
 ## Demo screenshots
 
-Store screenshots in `docs/screenshots/` and reference them as follows:
+### Title and Author Search
 
-```markdown
+Search the catalog using an exact book title or author name. Results support pagination and expose the book metadata and genres.
+
 ![Title and author search](docs/screenshots/title-search.png)
+
+### Personalized Recommendations
+
+The recommendation section displays books selected from the current user's reading activity, ratings, likes, and follows.
+
 ![Personal recommendations](docs/screenshots/recommendations.png)
+
+### Semantic Search with BookGuide Agent
+
+Users can describe the type of book they want in natural language. When Agent mode is enabled, BookGuide can combine the semantic query with the user's personal preferences.
+
 ![Semantic search with Agent](docs/screenshots/agent-mode.png)
-```
-
-To capture the screenshots, start the backend and frontend, open `http://localhost:3000`, and capture these states:
-
-1. Title/author search results.
-2. The personal recommendations section.
-3. Semantic search with **Use Agent** disabled and enabled.
-
-Save the images with the names above so they can be embedded in this README.
 
 ## Notes
 
