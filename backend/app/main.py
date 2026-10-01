@@ -84,7 +84,7 @@ def personalized_recommendations(user_id:str,payload:UserRecommendationIn,db:Ses
         ids=[x.work_id for x in items]; books={b.work_id:b for b in db.query(Book).filter(Book.work_id.in_(ids)).all()} if ids else {}
         results=[]
         for item in items:
-            b=books[item.work_id]; row={'work_id':b.work_id,'title':b.title,'first_author':b.first_author,'description':b.description,'average_rating':b.average_rating,'score':item.score,'matched_interests':item.matched_interests}
+            b=books[item.work_id]; row={'work_id':b.work_id,'title':b.title,'first_author':b.first_author,'description':b.description,'content_tags':json.loads(b.content_tags or '[]'),'average_rating':b.average_rating,'score':item.score,'matched_interests':item.matched_interests}
             if payload.debug:row['components']=item.components
             results.append(row)
         return {'user_id':user_id,'model_version':version,'interaction_count':len(profile.interacted_ids),'results':results}

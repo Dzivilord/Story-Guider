@@ -50,7 +50,7 @@ class BookGuide:
             self.tools.get_user_context(user_id); used.append('get_user_context'); items,_,_=self.tools.recommend_books(user_id,top_k,plan.genres,plan.excluded_authors,plan.exclude_followed); used.append('recommend_books')
         from ..models import Book
         ids=[x.work_id for x in items]; books={b.work_id:b for b in self.tools.db.query(Book).filter(Book.work_id.in_(ids)).all()} if ids else []
-        results=[{'work_id':x.work_id,'title':books[x.work_id].title,'first_author':books[x.work_id].first_author,'description':books[x.work_id].description,'score':x.score,'components':x.components,'matched_interests':x.matched_interests} for x in items if x.work_id in books]
+        results=[{'work_id':x.work_id,'title':books[x.work_id].title,'first_author':books[x.work_id].first_author,'description':books[x.work_id].description,'content_tags':__import__('json').loads(books[x.work_id].content_tags or '[]'),'score':x.score,'components':x.components,'matched_interests':x.matched_interests} for x in items if x.work_id in books]
         if debug:
             print('FINAL CANDIDATES')
             for rank,item in enumerate(results,1): print(f'  {rank:02d}. {item["work_id"]} {item["title"]} score={item["score"]:.4f}')
